@@ -1,1 +1,1 @@
- https://13thspringmorning.github.io/rsschool-cv/cv
+ https://13thspringmorning.github.io/rsschool-cv/
