@@ -1,6 +1,5 @@
 # 👩🏻‍💻 Eva Khotoveli 
 ### Junior Frontend Developer
---
 ## 📫 Contact Information
 - Phone: +7 950 3130331
 - Discord: 13thspringmorning#9663
