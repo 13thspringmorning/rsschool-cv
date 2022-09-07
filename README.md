@@ -2,4 +2,4 @@
 
 https://13thspringmorning.github.io/rsschool-cv/
 
-All the source code in rsschool-cv-html branch
+All source code in the rsschool-cv-html branch
