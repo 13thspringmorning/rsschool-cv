@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Quicksand', sans-serif;
+    background-color: rgb(198, 235, 250);
+}
+
+.container {
+    background-color: rgb(245, 252, 255);
+    box-shadow: 0 2px 20px rgba(56, 56, 56, 0.5);
+    margin: 50px;
+    border-radius: 3px;
+    max-width: 700px;
+}
+
+.block {
+    margin: 40px;
+}
+
+.block:first-child {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+img {
+    height: 300px;
+    border-radius: 3px;
+}
+
+.name {
+    margin-right: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(94, 115, 199);
+}
+
+a:hover {
+    color: rgb(14, 40, 146);
+}
+
+ul {
+    margin-left: 20px;
+}
+
+li {
+    list-style: square outside none;
+    line-height: 1.6rem;
+}
+
+.about ul {
+    margin: 0;
+}
+
+.about li {
+    list-style-type: none;
+}
+
+h2 {
+    border-bottom: 2px solid #000;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+
+p {
+}
+
+.code {
+    background-color: rgb(218, 239, 247);
+    box-shadow: 0 2px 20px rgba(56, 56, 56, 0.3);
+    border-radius: 3px;
+    padding: 20px;
+    margin: 20px 0;
+}
