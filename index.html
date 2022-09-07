@@ -92,10 +92,10 @@
             <code>
                 function sortByBit(arr) {
                 <br >
-                &ensp; const countBit = (bit) => bit.toString(2).replace(/[0]/g,
+                &ensp; const countBit = (bit) =&gt; bit.toString(2).replace(/[0]/g,
                 "").length;
                 <br >
-                &ensp; return arr.sort((a, b) => countBit(a) === countBit(b) ? a - b :
+                &ensp; return arr.sort((a, b) =&gt; countBit(a) === countBit(b) ? a - b :
                 countBit(a) - countBit(b));
                 <br >
                 }
